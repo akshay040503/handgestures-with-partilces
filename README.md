@@ -73,11 +73,11 @@ Simply double-click the HTML file.
 
 For example:
 
-index2.html
+index3.html
 
 or
 
-index3.html
+index4.html
 
 This will open the project directly in:
 
